@@ -7,7 +7,8 @@ our group consists of 5 members they are ;Roshani pathak,Mohaimenul islam,Joseph
 
 https://callistus0.github.io/Abaracallistus/
 
-     Abara is a student of IT in Centria university of applied science. she is from Nigeria . Abara handles all the work related to finding apps realted to the problem. She finds the best apps to use for solving the problems.
+ Abara is a student of IT in Centria university of applied science. she is from Nigeria .
+Abara handles all the work related to finding apps realted to the problem. She finds the best apps to use for solving the problems.
 
     
 
